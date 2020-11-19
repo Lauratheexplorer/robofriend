@@ -7,7 +7,9 @@
     "firefox": "0.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-redux": "^7.2.2",
     "react-scripts": "^3.4.3",
+    "redux": "^4.0.5",
     "set-default-browser": "^1.1.1",
     "tachyons": "^4.12.0"
   },
